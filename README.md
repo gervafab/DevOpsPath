@@ -20,6 +20,8 @@ npm run ng build
 ```
 Now all javascript files required for the frontend are built.
 
+## Achtung hinter dir, ein dreiköpfiger Affe!
+
 ## Deployment
 * Open a console/terminal window and change directory to backend:
 ```
