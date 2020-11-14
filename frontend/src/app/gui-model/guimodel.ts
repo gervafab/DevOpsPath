@@ -3,7 +3,7 @@ export class GuiModel {
 
     private _guiModel = {
         "application": {
-            "title": "Mega-Gute-CAS-Affen-App",
+            "title": " ALLE KACK",
             "formList": [
                 {
                     "id": "OwnUserForm",
@@ -1492,7 +1492,7 @@ export class GuiModel {
                     "elementList": [
                         {
                             "type": "pageLabel",
-                            "value": "<h4>Willkommen bei DevOps</h4>",
+                            "value": "<h4>Willkommen bei DevOps und den Tollen AFFEN</h4>",
                             "newRow": true
                         },
                         {
